@@ -29,7 +29,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
  # Screen Images About Bottom Navigation Bar Usage
-<img src=/ScreenShots/ss_4.png width="400" height="700">
+<img src=/ScreenShots/ss_ 4.png width="400" height="700">
 
 
  # Screen Images About Bottom Navigation Bar Usage
@@ -45,8 +45,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
  # Screen Images About Bottom Navigation Bar Usage
-<img src=/ScreenShots/ss_8.png width="400" height="700">
+<img src=/ScreenShots/ss_8.png width="700" height="400">
 
 
  # Screen Images About Bottom Navigation Bar Usage
-<img src=/ScreenShots/ss_9.png width="400" height="700">
+<img src=/ScreenShots/ss_9.png width="700" height="400">
