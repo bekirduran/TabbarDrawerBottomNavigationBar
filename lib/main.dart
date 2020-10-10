@@ -104,6 +104,8 @@ class _MyHomePageState extends State<MyHomePage>
 
   TabBar buildTabBar() {
     return TabBar(
+
+      indicatorColor: Colors.transparent,
       onTap: (index){
         setState(() {
           listProducts(index);
